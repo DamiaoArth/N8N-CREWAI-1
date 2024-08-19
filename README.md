@@ -13,6 +13,8 @@ APÓS A ABERTURA DO PROJETO EFETUAR O
 
 - N8N START
 
+teste
+
 # n8n-nodes-starter
 
 This repo contains example nodes to help you get started building your own custom integrations for [n8n](n8n.io). It includes the node linter and other dependencies.
